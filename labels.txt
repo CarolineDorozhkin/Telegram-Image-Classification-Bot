@@ -1,0 +1,3 @@
+0 golubi
+1 sinichki
+2 voroni
